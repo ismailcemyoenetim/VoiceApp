@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # resonance_flutter
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# VoiceApp
+>>>>>>> 16104877659c8785e679b8a2d448b02027717e38
